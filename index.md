@@ -1,3 +1,4 @@
+<p align="right"><a href="https://dreadsec.me/">Return to Homepage</a></p>
 <p align="center">Below you can find a list of written papers of mine and others.</p>
 <h2 align="left">Documents</h2>
 <ul>
