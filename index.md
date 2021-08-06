@@ -1,4 +1,4 @@
-<p align="center">Below you can find a list of my--and other--written papers.</p>
+<p align="center">Below you can find a list of written papers of mine and others.</p>
 <h2 align="left">Documents</h2>
 <ul>
   <li><a href="/documents/Pointers-References-and-Computer-Memory.pdf">Pointers, References, and Computer Memory</a></li>
